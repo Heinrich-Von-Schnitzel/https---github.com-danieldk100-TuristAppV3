@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DANIEL</Machine>
+    <WindowsUser>DanielWinther</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>f828a44c-38e2-420c-9a26-ef4b6d0ab70c</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\DanielWinther\Desktop\uddannelse\datamatiker\1semester\softwareconstruction\TuristAppV3Test\TuristAppV3Test\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\DanielWinther\Desktop\uddannelse\datamatiker\1semester\softwareconstruction\TuristAppV3Test\TuristAppV3Test\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\DanielWinther\Desktop\uddannelse\datamatiker\1semester\softwareconstruction\TuristAppV3Test\TuristAppV3Test\bin\Debug\TuristAppV3Test.exe">
+      <PackagePath>TuristAppV3Test.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DanielWinther\Desktop\uddannelse\datamatiker\1semester\softwareconstruction\TuristAppV3Test\TuristAppV3Test\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DanielWinther\Desktop\uddannelse\datamatiker\1semester\softwareconstruction\TuristAppV3Test\TuristAppV3Test\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DanielWinther\Desktop\uddannelse\datamatiker\1semester\softwareconstruction\TuristAppV3Test\TuristAppV3Test\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DanielWinther\Desktop\uddannelse\datamatiker\1semester\softwareconstruction\TuristAppV3Test\TuristAppV3Test\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DanielWinther\Desktop\uddannelse\datamatiker\1semester\softwareconstruction\TuristAppV3Test\TuristAppV3Test\Assets\restaurant1.jpg">
+      <PackagePath>Assets\restaurant1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DanielWinther\Desktop\uddannelse\datamatiker\1semester\softwareconstruction\TuristAppV3Test\TuristAppV3Test\Assets\restaurant2.jpg">
+      <PackagePath>Assets\restaurant2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DanielWinther\Desktop\uddannelse\datamatiker\1semester\softwareconstruction\TuristAppV3Test\TuristAppV3Test\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DanielWinther\Desktop\uddannelse\datamatiker\1semester\softwareconstruction\TuristAppV3Test\TuristAppV3Test\bin\Debug\View\AnmeldelseRestaurantView.xbf">
+      <PackagePath>View\AnmeldelseRestaurantView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DanielWinther\Desktop\uddannelse\datamatiker\1semester\softwareconstruction\TuristAppV3Test\TuristAppV3Test\bin\Debug\View\MainPage.xbf">
+      <PackagePath>View\MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DanielWinther\Desktop\uddannelse\datamatiker\1semester\softwareconstruction\TuristAppV3Test\TuristAppV3Test\bin\Debug\TuristAppV3Test.xr.xml">
+      <PackagePath>TuristAppV3Test.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DanielWinther\Desktop\uddannelse\datamatiker\1semester\softwareconstruction\TuristAppV3Test\TuristAppV3Test\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

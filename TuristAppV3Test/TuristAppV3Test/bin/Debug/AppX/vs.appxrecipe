@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DANIEL</Machine>
+    <WindowsUser>DanielWinther</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>f828a44c-38e2-420c-9a26-ef4b6d0ab70c</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\DanielWinther\Desktop\uddannelse\datamatiker\1semester\softwareconstruction\TuristAppV3Test\TuristAppV3Test\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>6AD6FE1E70C4C333668AA8CE43CB84D23A1FFF144CF61452CBE628059A0CB76C</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>f828a44c-38e2-420c-9a26-ef4b6d0ab70c_1.0.0.0_neutral__5bjkw5ps1tkdp</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>f828a44c-38e2-420c-9a26-ef4b6d0ab70c_5bjkw5ps1tkdp!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>f828a44c-38e2-420c-9a26-ef4b6d0ab70c</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=DanielWinther</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\DanielWinther\Desktop\uddannelse\datamatiker\1semester\softwareconstruction\TuristAppV3Test\TuristAppV3Test\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-30T18:51:31.781</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\DanielWinther\Desktop\uddannelse\datamatiker\1semester\softwareconstruction\TuristAppV3Test\TuristAppV3Test\bin\Debug\TuristAppV3Test.exe">
+      <PackagePath>TuristAppV3Test.exe</PackagePath>
+      <Modified>2014-10-31T07:57:16.760</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DanielWinther\Desktop\uddannelse\datamatiker\1semester\softwareconstruction\TuristAppV3Test\TuristAppV3Test\Assets\familie.png">
+      <PackagePath>Assets\familie.png</PackagePath>
+      <Modified>2014-10-30T18:50:32.491</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DanielWinther\Desktop\uddannelse\datamatiker\1semester\softwareconstruction\TuristAppV3Test\TuristAppV3Test\Assets\fastfood.png">
+      <PackagePath>Assets\fastfood.png</PackagePath>
+      <Modified>2014-10-30T18:50:32.496</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DanielWinther\Desktop\uddannelse\datamatiker\1semester\softwareconstruction\TuristAppV3Test\TuristAppV3Test\Assets\fine.png">
+      <PackagePath>Assets\fine.png</PackagePath>
+      <Modified>2014-10-30T18:50:32.493</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DanielWinther\Desktop\uddannelse\datamatiker\1semester\softwareconstruction\TuristAppV3Test\TuristAppV3Test\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DanielWinther\Desktop\uddannelse\datamatiker\1semester\softwareconstruction\TuristAppV3Test\TuristAppV3Test\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DanielWinther\Desktop\uddannelse\datamatiker\1semester\softwareconstruction\TuristAppV3Test\TuristAppV3Test\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DanielWinther\Desktop\uddannelse\datamatiker\1semester\softwareconstruction\TuristAppV3Test\TuristAppV3Test\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DanielWinther\Desktop\uddannelse\datamatiker\1semester\softwareconstruction\TuristAppV3Test\TuristAppV3Test\Assets\restaurant1.jpg">
+      <PackagePath>Assets\restaurant1.jpg</PackagePath>
+      <Modified>2014-10-29T17:50:25.949</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DanielWinther\Desktop\uddannelse\datamatiker\1semester\softwareconstruction\TuristAppV3Test\TuristAppV3Test\Assets\restaurant2.jpg">
+      <PackagePath>Assets\restaurant2.jpg</PackagePath>
+      <Modified>2014-10-29T17:52:04.544</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DanielWinther\Desktop\uddannelse\datamatiker\1semester\softwareconstruction\TuristAppV3Test\TuristAppV3Test\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-10-29T15:55:20.436</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DanielWinther\Desktop\uddannelse\datamatiker\1semester\softwareconstruction\TuristAppV3Test\TuristAppV3Test\bin\Debug\View\AnmeldelseRestaurantView.xbf">
+      <PackagePath>View\AnmeldelseRestaurantView.xbf</PackagePath>
+      <Modified>2014-10-31T07:57:16.491</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DanielWinther\Desktop\uddannelse\datamatiker\1semester\softwareconstruction\TuristAppV3Test\TuristAppV3Test\bin\Debug\View\MainPage.xbf">
+      <PackagePath>View\MainPage.xbf</PackagePath>
+      <Modified>2014-10-31T07:57:16.495</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DanielWinther\Desktop\uddannelse\datamatiker\1semester\softwareconstruction\TuristAppV3Test\TuristAppV3Test\bin\Debug\TuristAppV3Test.xr.xml">
+      <PackagePath>TuristAppV3Test.xr.xml</PackagePath>
+      <Modified>2014-10-30T19:08:02.255</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DanielWinther\Desktop\uddannelse\datamatiker\1semester\softwareconstruction\TuristAppV3Test\TuristAppV3Test\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-10-30T18:51:31.531</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
